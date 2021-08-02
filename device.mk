@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
 LOCAL_PATH := device/xiaomi/cannon
 
 # A/B
