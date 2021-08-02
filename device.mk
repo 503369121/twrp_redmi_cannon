@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/redmi/cannon
+LOCAL_PATH := device/xiaomi/cannon
 
 # A/B
 AB_OTA_PARTITIONS += \
