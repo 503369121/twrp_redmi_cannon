@@ -71,5 +71,4 @@
   	   export | grep "TW_" >> $FOX_BUILD_LOG_FILE
  	fi
 
-fi
 #
